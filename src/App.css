@@ -1,0 +1,83 @@
+/* app css */
+* :after, :before {
+    box-sizing: border-box;
+}
+
+.article-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  .section-introduction {
+    text-align: center;
+    padding-top: 4rem;
+    /* background-color: rgb(119, 19, 19); */
+    color: black;
+    flex-wrap: wrap;
+  }
+  
+  .section-happenings {
+    text-align: center;
+    padding-top: 4rem;
+    /* background-color: rgb(27, 95, 50); */
+    color: black;
+    flex-wrap: wrap;
+  
+  }
+
+@media (min-width: 1536px) {
+    .article-container{ 
+        max-width: 1536px;
+
+    }
+} 
+
+@media (min-width: 1440px) {
+    .article-container{ 
+
+    }
+}     
+
+@media (min-width: 1280px) {
+    .article-container{ 
+        
+    }
+}      
+  
+@media (min-width: 1024px) {
+    .article-container{
+        display: flex;
+        flex-direction: row;
+
+    }
+    .section-introduction {
+        flex-basis: 40%;
+        padding-right: 2rem;
+    }
+    .section-happenings {
+        flex-basis: 60%;
+        padding-right: 2rem;
+    }
+    h2 {
+        font-size: 2.2rem;
+    }
+    p {
+        font-size: 1.1rem;
+        line-height: 1.7rem;
+    }
+}
+@media (min-width: 768px) {
+    .article-container{
+
+    }
+}
+@media (min-width: 640px) {
+    .article-container{
+
+    }
+}
