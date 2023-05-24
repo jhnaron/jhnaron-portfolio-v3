@@ -14,7 +14,7 @@ function Introduction() {
         I wanted to keep this website simple for its 3rd iteration since
         I've been pretty busy lately (I could barely go out besides having to buy necessities😅).
         <br /><br />
-        If you're from LinkedIn, I'm currently happy and am not looking for other work.
+        If you're from LinkedIn, I'm currently happy working fulltime and not looking for any job.
         <br /> <br />
         And yes, dear friends, I am still alive and well! I just rarely check my socials nowadays. 
         But if you have my number, feel free to give me a call or send me a text. <br />
