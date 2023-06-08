@@ -7,20 +7,17 @@ function Happenings() {
         <br /> <br />
         I've been delving into Power Platform and Python for some time now, with occasional forays into Scikit and Tensorflow.
         <br /> <br /> 
-        I can't believe I'm actually studying Machine Learning at this point in my life, but considering the future heading towards A.I. and Automation, I believe it would be a valuable addition to my skill set as an engineer.
-        <br />
-        I mean, I had wanted to try this out a long time ago, but it just seemed too intimidating.
+        I can't believe I'm putting more time studying Machine Learning at this point in my life given how intimidating it seemed when I was still in college, 
+        but considering the future heading towards A.I. and Automation, this should help me give value to the world as an engineer.
         <br /> <br />
-        That said, I'm preparing for my first A.I. hackathon this year (finals will be set in Fukuoka Japan; Hope the whole team makes it) that's why I'm squeezing my time learning A.I.
+        That said, I'm preparing for my first A.I. hackathon this year (finals will be set in Fukuoka Japan; Hope the whole team makes it).
         <br /> <br />
-        I still read books albeit not as fervently as last year. I've been absorbing Stoic and Taoism philosophies lately, they're pretty eye-opening.
-        <br />
-        Here are a few recommendations if it piques your interest:
+        Oh and here, book recos :D (if it piques your interest!):
         <br /> <br />
         <ul>
             <li>Stoicism for Inner Peace</li>
             <li>Loose: On Letting Stuff Go</li>
-            <li>Unoffendable: The Art of Thriving in a World Full of Jerks</li>
+            <li>Meditations by Marcus Aurelius</li>
         </ul>
         <br /> <br />
         Besides the boring stuff I still make time for friends, other projects, and taking care of this little critter: 🐈
